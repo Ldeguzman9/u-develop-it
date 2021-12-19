@@ -16,6 +16,7 @@ VALUES
   ('Montague', 'Summers', 3, 1),
   ('Octavia', 'Butler', 3, 1),
   ('Unica', 'Zurn', NULL, 1);
+  
 INSERT INTO voters (first_name, last_name, email)
 VALUES
   ('James', 'Fraser', 'jf@goldenbough.edu'),
